@@ -37,7 +37,6 @@ edu.qa
 edu.sc
 edu.sd
 edu.sh
-edu.sl
 edu.sy
 edu.ws
 edu.ye

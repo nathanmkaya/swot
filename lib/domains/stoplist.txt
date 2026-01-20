@@ -963,3 +963,6 @@ nondegree.undip.ac.id
 st-thomasmore.southend.sch.uk
 madrasah.kemenag.go.id
 live.uru.ac.th
+my.ccmtsl.edu.sl
+henu.edu.sl
+njala.edu.sl
