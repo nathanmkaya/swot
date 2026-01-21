@@ -295,6 +295,7 @@ alumni.fh-campuswien.ac.at
 alumni.habib.edu.pk
 alumni.imperial.ac.uk
 alumni.iu.edu
+alumni.lsu.edu
 alumni.manchester.ac.uk
 alumni.montclair.edu
 alumni.msoe.edu
@@ -971,3 +972,4 @@ balsan.sen.es.kr
 choongam.sen.es.kr
 yeouido.sen.es.kr
 sen.es.kr
+office365.ukw.edu.pl
