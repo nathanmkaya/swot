@@ -303,6 +303,7 @@ alumni.ncyu.edu.tw
 alumni.nottingham.ac.uk
 alumni.npust.edu.tw
 alumni.princeton.edu
+alumni.sfbu.edu
 alumni.ssst.edu.ba
 alumni.stanford.edu
 alumni.tku.edu.tw
@@ -316,6 +317,7 @@ alumni.virginia.edu
 alumni365.dmu.ac.uk
 alumni.undip.ac.id
 alumni.utoronto.ca
+alumni.iebschool.com
 office.undip.ac.id
 mdu.edu.rs
 nfs.edu.rs
@@ -973,3 +975,5 @@ choongam.sen.es.kr
 yeouido.sen.es.kr
 sen.es.kr
 office365.ukw.edu.pl
+sgvw.be
+alumni.bits-pilani.ac.in
