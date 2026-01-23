@@ -991,3 +991,5 @@ hudson.k12.mi.us
 aesa.edu.pt
 aimst.edu.my
 akademiastudente.co.za
+altamira.tecnm.mx
+aulaxxi.murciaeduca.es
