@@ -777,7 +777,6 @@ jamaluddin.edu.mv
 365.cleu.edu.mx
 alumno.buap.mx
 alumno.ipn.mx
-alumno.uaemex.mx
 alumno.udg.mx
 alumno.ujat.mx
 alumnos.cecyteg.edu.mx
