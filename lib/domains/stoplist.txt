@@ -996,3 +996,5 @@ aulaxxi.murciaeduca.es
 buu.ac.th
 acitech.org
 newcapital.edu.np
+ms.tup.ac.th
+tup.ac.th
