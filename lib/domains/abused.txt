@@ -1786,3 +1786,4 @@ alu.edu.gva.es
 lecturer.undip.ac.id
 undip.ac.id
 dtu.edu.eg
+karnavatiuniversity.edu.in
