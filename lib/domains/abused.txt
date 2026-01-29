@@ -1033,6 +1033,7 @@ student.utcb.ro
 students.umfiasi.ro
 uab.ro
 rocks
+bg.ac.rs
 aurora.ekof.bg.ac.rs
 edu.arh.bg.ac.rs
 mas.bg.ac.rs
@@ -1789,3 +1790,8 @@ dtu.edu.eg
 karnavatiuniversity.edu.in
 strategyfirst.edu.mm
 cmcu.edu.vn
+alu365.murciaeduca.es
+murciaeduca.es
+puts.ac.kr
+alunos.epbjc.pt
+epbjc.pt
