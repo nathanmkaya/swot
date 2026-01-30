@@ -1796,3 +1796,6 @@ udm.edu.ph
 udch.edu.pe
 mhs.unesa.ac.id
 unesa.ac.id
+bcc1852.com
+upn.edu.pe
+ifnmu.edu.ua
