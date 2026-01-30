@@ -1794,3 +1794,5 @@ wlcormoc.edu.ph
 auct.edu.jo
 udm.edu.ph
 udch.edu.pe
+mhs.unesa.ac.id
+unesa.ac.id
