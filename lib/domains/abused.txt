@@ -1796,3 +1796,4 @@ puts.ac.kr
 alunos.epbjc.pt
 epbjc.pt
 wlcormoc.edu.ph
+auct.edu.jo
