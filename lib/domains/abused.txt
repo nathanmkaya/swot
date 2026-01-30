@@ -1795,3 +1795,4 @@ murciaeduca.es
 puts.ac.kr
 alunos.epbjc.pt
 epbjc.pt
+wlcormoc.edu.ph
