@@ -1,9 +1,6 @@
 mdx.ac
 esoft.academy
 itstep.academy
-ajmanuni.ac.ae
-aths.ac.ae
-aust.ae
 mbz.ens.sch.ae
 sch.edu.af
 fti.edu.al
