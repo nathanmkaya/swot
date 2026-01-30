@@ -1332,7 +1332,6 @@ my.csun.edu
 net.iul.edu.lb
 alunos.sc.senac.br
 kgu.ac.kr
-students.adu.ac.ae
 altinbas.edu.tr
 daejin.ac.kr
 studenti.uniba.it
@@ -1486,7 +1485,6 @@ sfcollege.edu
 utcancun.edu.mx
 alunos.estacio.br
 aluno.uniasselvi.com.br
-uaeu.ac.ae
 uinjkt.ac.id
 edu.pa.senac.br
 vpt.edu.in
