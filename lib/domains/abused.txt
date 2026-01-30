@@ -1794,3 +1794,5 @@ alunos.epbjc.pt
 epbjc.pt
 wlcormoc.edu.ph
 auct.edu.jo
+udm.edu.ph
+udch.edu.pe
