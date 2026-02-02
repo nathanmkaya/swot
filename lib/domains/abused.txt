@@ -1799,3 +1799,6 @@ unesa.ac.id
 bcc1852.com
 upn.edu.pe
 ifnmu.edu.ua
+uadeo.mx
+kastamonu.edu.tr
+wroclaw.pl
