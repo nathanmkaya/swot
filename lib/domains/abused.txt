@@ -1808,3 +1808,5 @@ edu.udla.cl
 cambria.ac.uk
 tfzr.rs
 anu.edu.eg
+tuxtla.tecnm.mx
+houstonisd.org
