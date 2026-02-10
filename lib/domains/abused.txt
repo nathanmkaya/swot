@@ -311,7 +311,6 @@ my.stchas.edu
 my.stvt.edu
 my.tccd.edu
 my.uwi.edu
-my.witcc.edu
 my.yosemite.edu
 mycom.marin.edu
 mymail.aacc.edu
@@ -1810,3 +1809,6 @@ tfzr.rs
 anu.edu.eg
 tuxtla.tecnm.mx
 houstonisd.org
+ceti.mx
+liveusam.edu.sv
+huce.edu.vn
