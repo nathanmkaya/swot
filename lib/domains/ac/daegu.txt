@@ -1,0 +1,7 @@
+대구대학교
+Daegu University
+
+#University link
+https://www.daegu.ac.kr/main
+#University AISW link
+https://aisw.daegu.ac.kr/main
