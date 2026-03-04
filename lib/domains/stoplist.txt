@@ -1034,3 +1034,5 @@ indianschool.bh
 ulsa-noroeste.edu.mx
 opoo.edu.rs
 mail.rru.ac.th
+pro.kbtus.ac.kr
+colegiorefous.edu.co
