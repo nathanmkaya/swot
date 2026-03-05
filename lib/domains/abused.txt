@@ -1822,3 +1822,5 @@ alunos.unimetrocamp.edu.br
 ckziu.net
 tw.ac.kr
 ises.com.br
+viu.edu.vn
+usfa.edu.bo
