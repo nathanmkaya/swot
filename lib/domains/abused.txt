@@ -363,7 +363,6 @@ smail.pcd.edu
 southplainscollege.edu
 southwest.tn.edu
 spobcollege.edu
-spscc.edu
 stchas.edu
 stlcc.edu
 strose.edu
@@ -1826,3 +1825,4 @@ viu.edu.vn
 usfa.edu.bo
 umk.ac.id
 std.umk.ac.id
+ulacit.ed.cr
