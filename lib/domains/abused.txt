@@ -1825,3 +1825,5 @@ usfa.edu.bo
 umk.ac.id
 std.umk.ac.id
 ulacit.ed.cr
+mhs.ulm.ac.id
+fusdk12.net
