@@ -666,7 +666,7 @@ powerbi.edu.kg
 itc.edu.kh
 rule.edu.kh
 rupp.edu.kh
-sh.bbu.edu.kh
+bbu.edu.kh
 water.itc.edu.kh
 itc.edu.khmoestudents.edu.kn
 moe.edu.kn
