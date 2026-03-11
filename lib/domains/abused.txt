@@ -1836,3 +1836,6 @@ ucsg.edu.ec
 usfa.edu.bo
 futa.edu.ng
 technikumcyfrowe.onmicrosoft.com
+alumno.uaemex.mx
+stu.kln.ac.lk
+universidadean.edu.co
