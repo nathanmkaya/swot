@@ -1042,3 +1042,4 @@ racing.polsl.pl
 alumnos.ecam.es
 claretiano.ed.cr
 stud.vassboskovice.cz
+mkw.edu.np
