@@ -1237,3 +1237,6 @@ unand.ac.id
 okcx.edu.rs
 sandbox.lib.uci.edu
 ibc-vienna.at
+scsa.ac.in
+upb.edu.mx
+mhtia.edu.gh
