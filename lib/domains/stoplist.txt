@@ -1262,3 +1262,4 @@ vu.ac.th
 cecos.edu.pk
 365.ub.ac.id
 cibertec.pe
+fedpolyado.edu.ng
