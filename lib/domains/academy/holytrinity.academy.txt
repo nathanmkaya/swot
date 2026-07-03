@@ -1,0 +1,4 @@
+Official website: https://holytrinity.academy
+Student email domain: holytrinity.academy
+Example student email: firstname.lastname@holytrinity.academy (may include a number after the last name)
+Secondary school that offers IT/Programming education. Also contains a sixth form that includes IT (specifically Python).
