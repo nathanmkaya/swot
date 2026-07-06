@@ -1,0 +1,3 @@
+*.mipa.idu.ac.id
+Faculty of Military Mathematics and Natural Science/Indonesia Defense University
+https://www.idu.ac.id/
