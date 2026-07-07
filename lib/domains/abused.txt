@@ -560,7 +560,6 @@ vict.edu.ht
 o365.u-szeged.hu
 unibge.hu
 belajar.id
-binus.ac.id
 ecampus.ut.ac.id
 fh.unair.ac.id
 kings.ac.id
@@ -978,8 +977,6 @@ web.gcu.edu.pk
 jedynka.zgora.pl
 kwiatek365.pl
 stonabemowie.edu.pl
-stud.ur.edu.pl
-uni.opole.pl
 uwarsaw.edu.pl
 rawafed.edu.ps
 rb.edu.ps
