@@ -1095,7 +1095,6 @@ esprims.tn
 insat.u-carthage.tn
 issatm.u-carthage.tn
 myu.universitecentrale.tn
-akdeniz.edu.tr
 alum.bogazici.edu.tr
 bahcesehir.edu.tr
 boun.edu.tr
@@ -1901,3 +1900,4 @@ yu.edu.sa
 acoe.edu.in
 acet.ac.in
 urse.edu.mx
+itismajo.school
