@@ -1142,7 +1142,6 @@ usc.edu.cn
 ust.edu.kg
 ust.edu.ye
 ustb.edu.cn
-ustc.edu.cn
 usx.edu.cn
 utesur.edu.do
 utmail.utexas.edu
@@ -1295,3 +1294,4 @@ unibeth.edu.bo
 bethlehem.edu.ps
 cfautec.fr
 studenti.it
+bethlehem.edu.ps
