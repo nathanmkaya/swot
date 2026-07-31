@@ -216,7 +216,6 @@ cotcmail.cotc.edu
 cougars.csusm.edu
 cpcc.edu
 cwru.edu
-dartmouth.edu
 davidsonccc.edu
 daytonastate.edu
 deltacollege.edu
