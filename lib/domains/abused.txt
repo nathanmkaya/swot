@@ -1901,3 +1901,4 @@ mydev.uome.ch
 member.scau.ac.kr
 busyschools.qld.edu.au
 buu.ac.th
+student.tusd.net
