@@ -579,7 +579,6 @@ live.uni-vt.bg
 live.uru.ac.th
 lixin.edu.cn
 ljb.edu.hk
-lo2.wroc.pl
 lo9wrocpl.onmicrosoft.com
 lounle.lv
 lsts.edu.vn
@@ -822,7 +821,6 @@ psis.edu.my
 psu.palawan.edu.ph
 puc.tu.edu.np
 pucesa.edu.ec
-pum.edu.pl
 pusob.edu.np
 pycharm.ac.cn
 qdul.ch
