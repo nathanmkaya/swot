@@ -1898,3 +1898,4 @@ unicuc.mx
 bue.edu.eg
 cmb.ac.lk
 mydev.uome.ch
+member.scau.ac.kr
