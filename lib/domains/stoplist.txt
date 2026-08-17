@@ -1324,3 +1324,5 @@ warsawuni.edu.pl
 std.svit.ac.th
 alumni.usp.br
 aryagurukul.in
+ums.uom.ac.mu
+unicla.edu.mx
