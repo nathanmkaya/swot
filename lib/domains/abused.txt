@@ -1910,3 +1910,4 @@ std.ltuc.edu.jo
 365.hoseo.edu
 office365.sut.ac.th
 tbshs.org
+my.gcu.edu
