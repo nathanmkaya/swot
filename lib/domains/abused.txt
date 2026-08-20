@@ -1911,3 +1911,15 @@ std.ltuc.edu.jo
 office365.sut.ac.th
 tbshs.org
 my.gcu.edu
+utt.vn
+dev.students.mcleon.ch
+cholponay.ac.bp.org.es
+kanykei.ac.bp.org.es
+education.zranle.ac.org.es
+horizon.zranle.ac.org.es
+gctu.edu.gh
+certus.edu.pe
+ucsmgy.edu.mm
+mcleon.ch
+bp.org.es
+ac.org.es
