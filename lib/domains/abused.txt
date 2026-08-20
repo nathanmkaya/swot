@@ -1923,3 +1923,6 @@ ucsmgy.edu.mm
 mcleon.ch
 bp.org.es
 ac.org.es
+mu.ac.ke
+sliet.ac.in
+doowon.ac.kr
