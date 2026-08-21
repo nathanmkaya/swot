@@ -1336,3 +1336,5 @@ acmecollege.edu.np
 cloud.uap.edu.py
 poly.ac.mu
 alumni.nudt.edu.cn
+alumni.sifal.deerwalk.edu.np
+alumni.miu.edu
