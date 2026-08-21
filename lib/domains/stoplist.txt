@@ -1334,3 +1334,4 @@ aya.yale.edu
 online.ckziu-elektryk.pl
 acmecollege.edu.np
 cloud.uap.edu.py
+poly.ac.mu
