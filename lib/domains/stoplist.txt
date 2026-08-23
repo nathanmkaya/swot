@@ -1339,3 +1339,4 @@ alumni.nudt.edu.cn
 alumni.sifal.deerwalk.edu.np
 alumni.miu.edu
 dmail.edu.vn
+bethlehem.edu.ps
