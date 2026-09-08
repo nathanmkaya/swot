@@ -1373,3 +1373,9 @@ shcces.edu.mo
 licapo.ed.cr
 alumni.nd.edu
 alunos.colegiosaogoncalo.pt
+iars.zu.edu.eg
+ftd.zu.edu.eg
+fth.capu.edu.eg
+gat.gen.hs.kr
+gym-leoben.net
+gymburlo.de
