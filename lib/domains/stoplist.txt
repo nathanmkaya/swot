@@ -1370,3 +1370,6 @@ o365.dge.go.kr
 phed.usc.edu.eg
 cbnb.fab.mil.br
 shcces.edu.mo
+licapo.ed.cr
+alumni.nd.edu
+alunos.colegiosaogoncalo.pt
