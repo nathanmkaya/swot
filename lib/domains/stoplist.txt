@@ -361,7 +361,6 @@ essat-gabes-elearning.com
 est.domingocomin.edu.ec
 estudiante.uatx.mx
 estudiante.usat.edu.pe
-estudiantes.ucnl.edu.mx
 ettc.tl.edu.bb
 etudiant.ecole-artcom.com
 europagym.at
@@ -1375,3 +1374,6 @@ fth.capu.edu.eg
 gat.gen.hs.kr
 gym-leoben.net
 gymburlo.de
+mi.dau.edu.vn
+alkon.sch.sa
+ecr.edu.co
