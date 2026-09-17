@@ -654,7 +654,6 @@ medicina.uerj.br
 meduca.edu.pa
 mermoz.edu.ar
 metodista.br
-meu.edu.jo
 meve.lv
 mf.unsa.ba
 mfk.app
@@ -1380,3 +1379,4 @@ jsg.edu.jo
 maredschool.be
 ms.npu.ac.th
 e.madinagroups.edu.eg
+svuonline.org
