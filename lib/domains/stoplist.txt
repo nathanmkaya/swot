@@ -829,7 +829,6 @@ rgf.bg.ac.rs
 rhedu.org.il
 riceindia.org
 rsat.org.uk
-ruc.edu.cn
 ryn.edu.pl
 s.hlju.edu.cn
 s.kulogos.edu.al
