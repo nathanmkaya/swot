@@ -1955,3 +1955,4 @@ mail.apu.edu.my
 nute.edu.vn
 office.seowon.ac.kr
 mail.utoronto.ca
+alazhar.edu.ps
